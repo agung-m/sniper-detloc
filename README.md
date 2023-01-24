@@ -7,7 +7,7 @@ Features:
    - Memory access counters
    - Threads' communication detection (spatial and temporal)
 2. Thread mapping
-3. Cache usage monitoring (see branches)
+3. Cache usage monitoring (see the [cache-mon](https://github.com/agung-m/sniper-detloc/tree/cache-mon) brach)
 
 ## How to cite
 If you find this work useful in your research, please cite the paper using this bibtex:
