@@ -1,3 +1,5 @@
 # sniper-detloc
 
-A modified Sniper simulator (http://snipersim.org) that provides thread mapping and a component to trace threads' communication.
+A simulator for tracing threads' communication and mapping threads to processor cores.
+
+The branch for cache monitoring usage.  It will be merged to the main branch in the future.
